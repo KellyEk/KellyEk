@@ -1,6 +1,6 @@
 
 ## 🤩 Kelly Ekomie
-<code>Digital Queen (Communications/Digital Marketing/Junior Developer)</code>
+<code>Digital Queen (Digital Communications/Digital Marketing/Junior Developer)</code>
 > Acted as a Communications and Marketing Manager over the past 13 years. Le Wagon web development bootcamp marks my debut in comprehensive digital knowledge.
 <hr>
 <h3 class="heading-element" dir="auto">🧰 Latest Languages and Tools</h3>

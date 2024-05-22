@@ -24,17 +24,16 @@
 <p><a href="https://www.kellkom.com/CV/" rel="nofollow"><img src="https://kellkom.com/CV/assets/images/zebre-fond-noir_1200x768.jpg" alt="Kelly Ekomie" title="Optimise Your Communications" style="width: 250px;"></a>
   
 <a href="https://kellnews.com/" target="_blank" rel="nofollow" alt="L'OHMS Ingénierie"><img src="https://i9.ytimg.com/vi_webp/6lGguD0IlYY/mq1.webp?sqp=CPTMt7IG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGB0gRih_MA8=&rs=AOn4CLBm9PXYHNdNeM61A8BcQiY8SZO7xQ" style="width: 250px; height: 160px"></a>
-</p>
+</p><br>
+
+<h1 dir="auto"></h1>
+
+<h3 class="heading-element" dir="auto">♟ Right Now:</h3>
+ - 🔭 I’m currently working on my new personal branding<br>
+ - 🌱 I’m currently learning PHP<br>
+ - 👯 I’m looking to collaborate on business applications<br>
 <!--
  **KellyEk/KellyEk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
- Here are some ideas to get you started:
- - 🔭 I’m currently working on ...
- - 🌱 I’m currently learning ...
- - 👯 I’m looking to collaborate on ...
- - 🤔 I’m looking for help with ...
- - 💬 Ask me about ...
- - 📫 How to reach me: ...
- - 😄 Pronouns: ...
- - ⚡ Fun fact: ...
+
 -->

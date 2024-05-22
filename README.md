@@ -14,13 +14,13 @@
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/aed5f69c00ea3fd8c8bc70b89d236efae340eb3024526fd11bcba51c80c4aa40/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667"><img align="left" alt="React" width="30px" src="https://camo.githubusercontent.com/aed5f69c00ea3fd8c8bc70b89d236efae340eb3024526fd11bcba51c80c4aa40/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%;"></a></p>
 
-<p dir="auto"><a target="_blank"" href="https://camo.githubusercontent.com/e245c978ad271d30dcbfa637b0aad42d3532c5fa467a778e01c2210ed6c5ef81/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667"><img align="left" alt="GitHub" width="30px" src="https://camo.githubusercontent.com/e245c978ad271d30dcbfa637b0aad42d3532c5fa467a778e01c2210ed6c5ef81/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="max-width: 100%;"></a></p><br>
+<p dir="auto"><a target="_blank"rel="noopener noreferrer nofollow"  href="https://camo.githubusercontent.com/e245c978ad271d30dcbfa637b0aad42d3532c5fa467a778e01c2210ed6c5ef81/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667"><img align="left" alt="GitHub" width="30px" src="https://camo.githubusercontent.com/e245c978ad271d30dcbfa637b0aad42d3532c5fa467a778e01c2210ed6c5ef81/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="max-width: 100%;"></a></p><br>
  
 <h1 dir="auto"></h1>
 
 <h3 class="heading-element" dir="auto">🖥 Responsive websites</h3>
  
-<p dir="auto"><a href="https://www.kellkom.com/CV/" rel="nofollow"><img src="https://kellkom.com/CV/assets/images/zebre-fond-noir_1200x768.jpg" alt="Kelly Ekomie" title="Optimise Your Communications" style="width: 250px;"></a>
+<p><a href="https://www.kellkom.com/CV/" rel="nofollow"><img src="https://kellkom.com/CV/assets/images/zebre-fond-noir_1200x768.jpg" alt="Kelly Ekomie" title="Optimise Your Communications" style="width: 250px;"></a>
   
 <a href="https://kellnews.com/" target="_blank" rel="nofollow" alt="L'OHMS Ingénierie"><img src="https://i9.ytimg.com/vi_webp/6lGguD0IlYY/mq1.webp?sqp=CPTMt7IG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGB0gRih_MA8=&rs=AOn4CLBm9PXYHNdNeM61A8BcQiY8SZO7xQ" style="width: 250px; height: 160px"></a>
 </p>
